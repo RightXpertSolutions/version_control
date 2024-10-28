@@ -1,2 +1,2 @@
 # version_control
-Jomacs DevOps Training
+Jomacs DevOps Training (July - December 2024)
